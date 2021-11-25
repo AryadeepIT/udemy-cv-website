@@ -1,0 +1,23 @@
+body {
+  background-color: #F3F0D7;
+}
+
+hr {
+  background-color: white;
+  border-style: none;
+  border-top-style: dotted;
+  border-color: grey;
+  border-width: 5px;
+  width: 5%;
+
+}
+
+h3
+{
+  color: #FF5403;
+}
+
+h1{
+  color: #F90716;
+  font-family: 'Courier New', monospace;
+}
